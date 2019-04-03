@@ -1,0 +1,3 @@
+Link to repo: https://github.com/eddgr/deploy-on-day-1-nyc-web-career-040119
+Link to spreadsheet: https://docs.google.com/spreadsheets/d/1NjBuXjzcsttgdobixGiLWJrTvEpd2ipfO4a-u2ecqKw/edit#gid=0
+Link to final website: https://eddgr.github.io/deploy-on-day-1-nyc-web-career-040119/index.html
